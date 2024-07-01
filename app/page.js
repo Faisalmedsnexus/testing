@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="flex flex-col items-center justify-between p-24">
       <Link href="/components/addproduct">Add Product</Link>
-      <Link href="/components/products">Products List</Link>
+      <Link href="/components/products">Products List1</Link>
     </main>
   );
 }
